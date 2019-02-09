@@ -2,9 +2,10 @@
 Information flow: Database > Bot / API > Web
 
 ## Bot (Telegram)
-Bot interface
+Source: Database
 
 ## API (WebSocket)
-Source: database.
+Source: Database
 
-## Web (JS)
+## Web (JS, Design)
+Source: API
