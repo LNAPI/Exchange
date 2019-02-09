@@ -3,7 +3,7 @@ Exchange anything to anything.
 
 Pair = quote asset + base asset.
 
-Roles: clients / traders OR users
+Roles: clients / traders OR users.
 
 
 ## Information flow
