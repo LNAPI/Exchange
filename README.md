@@ -1,5 +1,9 @@
-# Exchange API
-Information flow: Database > Bot / API > Web
+# Exchange
+Roles: clients / traders OR users
+
+
+## Information flow
+Database > Bot / API > Web
 
 ## Bot (Telegram)
 Source: Database
