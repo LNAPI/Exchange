@@ -5,15 +5,18 @@ Pair = quote asset + base asset.
 
 Roles: clients / traders OR users.
 
+Languages
+EN, RU
+
 
 ## Information flow
 Database > Bot / API > Web
 
-## Bot (Telegram)
+### Bot (Telegram)
 Source: Database
 
-## API (WebSocket)
+### API (WebSocket)
 Source: Database
 
-## Web (JS, Design)
+### Web (JS, Design)
 Source: API
