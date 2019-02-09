@@ -1,7 +1,10 @@
 # Exchange API
+Information flow: Database > Bot / API > Web
 
 ## Bot (Telegram)
-
-## Web (JS)
+Bot interface
 
 ## API (WebSocket)
+Source: database.
+
+## Web (JS)
